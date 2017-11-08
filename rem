@@ -1,0 +1,6 @@
+sudo apt-get remove wolfram-engine sonic-pi scratch* libreoffice*
+sudo apt-get autoremove
+sudo apt-get autoclean
+sudo apt-get update
+sudo apt-get install screen mc joe aria2 ntfs-3g bsdgames
+sudo apt-get upgrade
